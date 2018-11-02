@@ -1,0 +1,11 @@
+{
+  "name": "node_ex",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ericivan/node_ex.git",
+  "author": "ericivan <ericivanzzl@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
